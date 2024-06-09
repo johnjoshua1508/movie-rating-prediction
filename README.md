@@ -26,17 +26,12 @@ Tools and Libraries Used
 
 Python
 
-pandas
-
-NumPy
-
-scikit-learn
-
-XGBoost
-
-Matplotlib
-
-seaborn
+- pandas
+- NumPy
+- scikit-learn
+- XGBoost
+- Matplotlib
+- seaborn
 
 Dataset
 
