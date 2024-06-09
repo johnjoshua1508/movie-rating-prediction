@@ -4,11 +4,11 @@ This project aims to predict movie ratings based on various features such as gen
 
 Features
 
-Dataset: The dataset includes movie data with features like year, duration, genre, director, and actors, along with corresponding ratings.
-Data Preprocessing: Missing values are handled, categorical variables are encoded, and feature engineering is performed to prepare the data for modeling.
-Modeling: Several machine learning models, including Linear Regression, Random Forest Regressor, Gradient Boosting Regressor, and XGBoost Regressor, are trained and evaluated for predicting movie ratings.
-Model Evaluation: Mean Squared Error (MSE) and R-squared metrics are used to evaluate model performance. Feature importances are analyzed to understand the factors influencing movie ratings.
-Model Deployment: The final XGBoost Regressor model is saved for future use, and an example of predicting the rating of a new movie is provided.
+- Dataset: The dataset includes movie data with features like year, duration, genre, director, and actors, along with corresponding ratings.
+- Data Preprocessing: Missing values are handled, categorical variables are encoded, and feature engineering is performed to prepare the data for modeling.
+- Modeling: Several machine learning models, including Linear Regression, Random Forest Regressor, Gradient Boosting Regressor, and XGBoost Regressor, are trained and evaluated for predicting movie ratings.
+- Model Evaluation: Mean Squared Error (MSE) and R-squared metrics are used to evaluate model performance. Feature importances are analyzed to understand the factors influencing movie ratings.
+- Model Deployment: The final XGBoost Regressor model is saved for future use, and an example of predicting the rating of a new movie is provided.
 
 Key Findings
 
