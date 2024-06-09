@@ -1,4 +1,4 @@
-#Movie Rating Prediction with Python
+# Movie Rating Prediction with Python
 
 This project aims to predict movie ratings based on various features such as genre, director, and actors using machine learning techniques in Python. Movie rating prediction is valuable for understanding audience preferences and aiding decision-making processes in the film industry.
 
@@ -25,11 +25,17 @@ Develop a user interface or web application for interactive movie rating predict
 Tools and Libraries Used
 
 Python
+
 pandas
+
 NumPy
+
 scikit-learn
+
 XGBoost
+
 Matplotlib
+
 seaborn
 
 Dataset
